@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - EasyFind</title>
+    <link rel='stylesheet' href='meta_styles.css'>
+</head>
+
+<body>
+  <header class="main-header">
+        <h1>About EasyFind</h1>
+    </header>
+    <nav>
+        <a href='meta_index.html'>Home</a> |
+        <a href='meta_about.html'>About</a> |
+        <a href='meta_how-it-works.html'>How It Works</a> |
+        <a href='meta_contact.html'>Contact</a>
+    </nav>
+    <main>
+        <section>
+            <h2>Our Mission</h2>
+            <p>At EasyFind, our mission is to simplify the way you shop. We believe that ordering should be as easy and
+                intuitive as a conversation. That's why we've leveraged the power of WhatsApp to create a seamless,
+                direct-to-customer ordering experience. No more clunky apps or complicated websites—just simple, fast
+                service right from your phone.</p>
+        </section>
+
+        <section>
+            <h2>Who We Are</h2>
+            <p>EasyFind was founded in 2025 with the goal of bridging the gap between businesses and their customers. We
+                are a small team of innovators passionate about creating efficient and user-friendly solutions. We've
+                seen how frustrating online ordering can be and are committed to offering a better way.</p>
+        </section>
+
+        <section>
+            <h2>Our Values</h2>
+            <ul>
+                <li><strong>Simplicity:</strong> We design our services to be as straightforward as possible.</li>
+                <li><strong>Speed:</strong> We know your time is valuable, so we focus on instant, efficient service.
+                </li>
+                <li><strong>Trust:</strong> Your privacy and security are our top priority. We handle all data with the
+                    utmost care.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <a href='meta_index.html'>Back to Home</a>
+    </footer>
+</body>
+
+</html>
