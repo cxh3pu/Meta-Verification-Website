@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Deletion Policy - EasyFind</title>
+    <link rel='stylesheet' href='meta_styles.css'>
+</head>
+<body>
+    <header class="main-header">
+        <h1>Data Deletion Policy</h1>
+    </header>
+    <nav>
+        <a href='meta_index.html'>Home</a> |
+        <a href='meta_about.html'>About</a> |
+        <a href='meta_how-it-works.html'>How It Works</a> |
+        <a href='meta_contact.html'>Contact</a>
+    </nav>
+    <main>
+        <p><strong>Last Updated: September 12, 2025</strong></p>
+        <section>
+            <h2>1. Introduction</h2>
+            <p>This policy outlines your right to request the deletion of your personal information from EasyFind's systems and describes our process for handling such requests. We are committed to upholding your rights in compliance with South Africa's Protection of Personal Information Act (POPIA). This policy should be read in conjunction with our main Privacy Policy.</p>
+        </section>
+        <section>
+            <h2>2. Your Right to Data Deletion</h2>
+            <p>You have the right to request the permanent deletion of your personal information that we hold. This includes, but is not limited to:</p>
+            <ul>
+                <li>Your WhatsApp phone number and profile name.</li>
+                <li>Your order history.</li>
+                <li>Your saved delivery addresses.</li>
+                <li>Communications you have had with our customer support.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>3. How to Request Deletion</h2>
+            <p>To request the deletion of your data, you must submit a formal request via email to our privacy team at: <strong>privacy@easyfindtech.co.za</strong></p>
+            <p>Your request must include:</p>
+            <ul>
+                <li>A clear statement that you are requesting the deletion of your personal data.</li>
+                <li>The WhatsApp phone number associated with your EasyFind account, so we can verify your identity.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>4. Our Deletion Process</h2>
+            <ol>
+                <li><strong>Verification:</strong> Upon receiving your request, we will first take steps to verify that you are the legitimate owner of the account associated with the provided phone number. We may send a confirmation message to that number.</li>
+                <li><strong>Execution:</strong> Once your identity is verified, we will proceed with deleting your personal information from our active production databases.</li>
+                <li><strong>Confirmation:</strong> We will notify you via email once the deletion process has been completed. This process will be completed within 30 days of your verified request.</li>
+            </ol>
+        </section>
+        <section>
+            <h2>5. Exceptions and Data Retention</h2>
+            <p>Please be aware that we may be legally required to retain certain information, even after a deletion request, for specific purposes. These exceptions include:</p>
+            <ul>
+                <li><strong>Legal & Financial Obligations:</strong> We may retain transaction data for a legally mandated period (typically 5-7 years) for tax, accounting, and auditing purposes.</li>
+                <li><strong>Security & Fraud Prevention:</strong> Information may be retained if it is necessary to prevent fraud, resolve disputes, or enforce our Terms of Service.</li>
+                <li><strong>Anonymized Data:</strong> We may retain aggregated and anonymized data that cannot be linked back to you for analytical and service improvement purposes.</li>
+            </ul>
+            <p>Any data retained under these exceptions will be securely archived, isolated from our active systems, and will not be used for any other purpose.</p>
+        </section>
+        <section>
+            <h2>6. Contact Us</h2>
+            <p>If you have any questions about this Data Deletion Policy, please contact us at:<strong>Email:</strong> <a href="mailto:support@easyfindtech.co.za">support@easyfindtech.co.za</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 EasyFind Ltd. All Rights Reserved.</p>
+        <p>
+            <a href='meta_terms.html'>Terms</a> |
+            <a href='meta_privacy.html'>Privacy</a> |
+            <a href='meta_data-deletion.html'>Data Deletion</a>
+        </p>
+    </footer>
+</body>
+</html>
