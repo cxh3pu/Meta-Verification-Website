@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How It Works - EasyFind</title>
+    <link rel='stylesheet' href='meta_styles.css'>
+</head>
+
+<body>
+    <header class="main-header" >
+        <h2>What's EasyFind and How It Works</h2>
+    </header>
+    <nav>
+        <a href='meta_index.html'>Home</a> |
+        <a href='meta_about.html'>About</a> |
+        <a href='meta_how-it-works.html'>How It Works</a> |
+        <a href='meta_contact.html'>Contact</a>
+    </nav>
+    <main>
+        <section>
+            <h2>The Problem with Ordering Today</h2>
+            <p>In a world of instant everything, why is ordering food and services still so complicated? We were tired of downloading countless apps, creating new accounts, and navigating confusing websites. We knew there had to be a better, simpler way.</p>
+        </section>
+
+        <section>
+            <h2>Our Solution: Conversational Ordering</h2>
+            <p>We created EasyFind to make ordering as simple as sending a text message. By leveraging WhatsApp, a platform millions already use and trust, we've eliminated the friction of traditional online ordering. No apps, no sign-ups, just a direct conversation to get what you need.</p>
+        </section>
+
+        <section>
+            <h2>How the EasyFind Service Works</h2>
+            <p>Our process is designed for speed and simplicity. Here’s how you can place an order:</p>
+            <ol>
+                <li><strong>Discover a Partner:</strong> Find a local business, restaurant, or service provider that uses EasyFind.</li>
+                <li><strong>Scan the QR Code or Click the Link:</strong> Use your phone to scan their unique EasyFind QR code or click on their ordering link. This will open a pre-filled message in your WhatsApp.</li>
+                <li><strong>Send the Message:</strong> Simply press "send" to start a conversation with the business.</li>
+                <li><strong>Place Your Order:</strong> A real person will assist you, answer your questions, and confirm your order details.</li>
+                <li><strong>Pay Securely:</strong> You'll receive a secure payment link to complete your purchase.</li>
+                <li><strong>Confirmation:</strong> Once payment is complete, you'll get an order confirmation and updates right in your WhatsApp chat.</li>
+            </ol>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 EasyFind Ltd.</p>
+        <p>
+            <a href='meta_terms.html'>Terms</a> |
+            <a href='meta_privacy.html'>Privacy</a> |
+            <a href='meta_data-deletion.html'>Data Deletion</a>
+        </p>
+    </footer>
+</body>
+
+</html>
