@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EasyFind - Home</title>
+    <link rel='stylesheet' href='meta_styles.css'>
+</head>
+
+<body>
+    <header class="main-header">
+        <h1>Welcome to EasyFind</h1>
+    </header>
+    
+    <nav>
+        <a href='meta_about.html'>About</a> |
+        <a href='meta_how-it-works.html'>How It Works</a> |
+        <a href='meta_contact.html'>Contact</a>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Ordering Made Simple</h2>
+            <p>Tired of complicated apps and endless sign-up forms? EasyFind brings the power of direct, conversational ordering right to your fingertips. Just send a message, and get what you need, fast.</p>
+            <a href="meta_how-it-works.html" class="cta-button">Learn How It Works</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 EasyFind Ltd.</p>
+        <p>
+            <a href='meta_terms.html'>Terms</a> |
+            <a href='meta_privacy.html'>Privacy</a> |
+            <a href='meta_data-deletion.html'>Data Deletion</a>
+        </p>
+    </footer>
+</body>
+
+</html>
