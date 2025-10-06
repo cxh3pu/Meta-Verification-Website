@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - EasyFind</title>
+    <link rel='stylesheet' href='meta_styles.css'>
+</head>
+<body>
+    <header class="main-header">
+        <h1>Privacy Policy</h1>
+    </header>
+    <nav>
+        <a href='meta_index.html'>Home</a> |
+        <a href='meta_about.html'>About</a> |
+        <a href='meta_how-it-works.html'>How It Works</a> |
+        <a href='meta_contact.html'>Contact</a>
+    </nav>
+    <main>
+        <p>We are committed to protecting your privacy and handle your data in accordance with South African data protection laws.</p>
+        <section>
+            <h2>4. Information We Collect</h2>
+            <h3>a&#41; Information You Provide:</h3>
+            <ul>
+                <li><strong>Contact Information:</strong> Your WhatsApp phone number and profile name.</li>
+                <li><strong>Order Information:</strong> Details of orders placed, including items, special instructions, and order history.</li>
+                <li><strong>Delivery Information:</strong> Your delivery address and contact details for order fulfillment.</li>
+                <li><strong>Payment Information:</strong> Transaction details processed by secure third-party payment gateways (Stripe, PayPal). We do not store your full credit card details on our servers.</li>
+            </ul>
+            <h3>b&#41; Information Collected Automatically:</h3>
+            <ul>
+                <li><strong>Device and Usage Information:</strong> How you interact with our service through WhatsApp, such as message timestamps and frequency.</li>
+                <li><strong>Location Data:</strong> If you consent, we may collect your device's location data to suggest nearby franchises or facilitate delivery. You can control location settings through your device.</li>
+            </ul>
+            <p><strong>Data Accuracy Warranty:</strong> You warrant that information provided is accurate, current, and true, and does not impersonate any person or entity.</p>
+            <p><strong>Cookies Consent:</strong> By accessing and using the Platform, you consent to our use of cookies.</p>
+        </section>
+        <section>
+            <h2>5. How We Use Your Information</h2>
+            <p>We use collected information for the following purposes:</p>
+            <ol>
+                <li><strong>Order Processing:</strong> To process and fulfill your food orders, including sending confirmations and updates.</li>
+                <li><strong>Communication:</strong> To communicate about orders, account, and services via WhatsApp.</li>
+                <li><strong>Customer Support:</strong> To provide support and respond to inquiries.</li>
+                <li><strong>Personalization:</strong> To personalize your experience and suggest relevant menu items or offers.</li>
+                <li><strong>Service Improvement:</strong> To improve our service, troubleshoot issues, and perform data analytics.</li>
+                <li><strong>Security:</strong> To prevent fraud, protect our rights, and ensure service security.</li>
+                <li><strong>Legal Compliance:</strong> To comply with legal obligations.</li>
+            </ol>
+        </section>
+        <section>
+            <h2>6. How We Share Your Information</h2>
+            <p>We may share your information only in the following ways:</p>
+            <ol>
+                <li><strong>With Franchise Partners:</strong> We share order details and delivery address with chosen restaurants to prepare and fulfill orders.</li>
+                <li><strong>With Delivery Partners:</strong> We share delivery address and contact details with third-party delivery services.</li>
+                <li><strong>With Payment Processors:</strong> We share transaction information with secure payment gateways. Their use of your information is governed by their privacy policies.</li>
+                <li><strong>For Legal Reasons:</strong> We may disclose information if required by law, regulation, legal process, or governmental request.</li>
+                <li><strong>With Your Consent:</strong> We may share information for other purposes with your explicit consent.</li>
+            </ol>
+            <p>We do not sell your personal information to third parties.</p>
+            <p><strong>Third Party Disclosure Warning:</strong> Should you disclose your personal information to any third party other than EasyFind, EasyFind shall not be liable for any loss or damage arising from such disclosure. We do not regulate or control how third parties use your information. Always read third-party privacy policies.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 EasyFind Ltd. All Rights Reserved.</p>
+        <p>
+            <a href='meta_terms.html'>Terms</a> |
+            <a href='meta_privacy.html'>Privacy</a> |
+            <a href='meta_data-deletion.html'>Data Deletion</a>
+        </p>
+    </footer>
+</body>
+</html>
